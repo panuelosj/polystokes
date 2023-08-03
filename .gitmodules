@@ -1,0 +1,9 @@
+[submodule "extern/eigen"]
+	path = extern/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "extern/amgcl"]
+	path = extern/amgcl
+	url = https://github.com/ddemidov/amgcl.git
+[submodule "extern/cuMat"]
+	path = extern/cuMat
+	url = https://github.com/shamanDevel/cuMat.git
