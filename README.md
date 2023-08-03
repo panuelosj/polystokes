@@ -43,3 +43,8 @@ Parameter usage are as follows:
 * *Do Tile:* Split the reduced interior into tiles. Unchecking this box will use only a single large reduced region (not recommended).
 * *Reduced Tile Size:* Width of the reduced tiles INCLUDING padding on one side.
 * *Reduced Tile Padding:* Number of uniform cells used between reduced tiles.
+
+## Other Content
+
+* `results`: Contains a copy of the paper as well as renders, videos, and figures.
+* `scenes`: Example houdini scene files.
